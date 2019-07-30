@@ -1,0 +1,23 @@
+{
+  "name": "bursapp",
+  "version": "1.0.0",
+  "description": "this is a bursary application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kefahamis/bursapp.git"
+  },
+  "author": "kefa hamisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kefahamis/bursapp/issues"
+  },
+  "homepage": "https://github.com/kefahamis/bursapp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0"
+  }
+}
