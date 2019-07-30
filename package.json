@@ -18,6 +18,10 @@
   "homepage": "https://github.com/kefahamis/bursapp#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-connect": "^5.7.0"
+    "gulp-connect": "^5.7.0",
+    "gulp-util": "^3.0.8"
+  },
+  "dependencies": {
+    "del": "^5.0.0"
   }
 }

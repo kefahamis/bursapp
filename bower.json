@@ -1,0 +1,17 @@
+{
+  "name": "fund-isha",
+  "description": "this is a bursary application",
+  "main": "index.js",
+  "authors": [
+    "kefa hamisi"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kefahamis/bursapp",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.7.8",
+    "angular-route": "^1.7.8",
+    "jquery": "^3.4.1",
+    "bootstrap": "^4.3.1"
+  }
+}
